@@ -40,10 +40,11 @@ Hi there! I'm **Shuvam Bhatt**, a passionate developer.
 <div align="left" style="display: flex; align-items: center; background: linear-gradient(135deg, #A8A8A8 10%, #4D4D4D 100%); padding: 20px; border-radius: 15px; margin-bottom: 20px; width: 100%; max-width: 800px;">
   <div style="flex: 1;">
     - An education networking platform that connects students and mentors for seamless learning.  
-    - Built with **React.js**, **Node.js**, and **MongoDB**.  
-    - [Code](https://github.com/shuvam/EduConnects)  
+    - Built with React.js, Node.js, and MongoDB.  
+     
   </div>
-  <img src="https://github.com/user-attachments/assets/37b9f048-c603-4bb2-900f-5dd8a7010473" alt="EduConnects" style="border-radius: 15px; width: 200px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/37b9f048-c603-4bb2-900f-5dd8a7010473" alt="EduConnects" style="border-radius: 15px; width: 500px; height: auto;" />
+  - [Code](https://github.com/shuvam/EduConnects) 
 </div>  
 
 ---
@@ -51,11 +52,12 @@ Hi there! I'm **Shuvam Bhatt**, a passionate developer.
 ## Lane and Road Sign Detection  
 <div align="left" style="display: flex; align-items: center; background: linear-gradient(135deg, #808080 10%, #333333 100%); padding: 20px; border-radius: 15px; margin-bottom: 20px; width: 100%; max-width: 800px;">
   <div style="flex: 1;">
-    - An AI-based system to detect lanes and road signs using **OpenCV** and **Deep Learning Models**.  
-    - Utilizes **YOLOv5** for object detection.  
-    - [Code](https://github.com/shuvam-bhatt/lane-detection)  
+    - An AI-based system to detect lanes and road signs using OpenCV and Deep Learning Models.  
+    - Utilizes YOLOv5 for object detection.  
+    
   </div>
-  <img src="https://github.com/user-attachments/assets/e5d080aa-a80f-4956-8e97-d64b15c28ab7" alt="Lane and Road Sign Detection" style="border-radius: 15px; width: 200px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/e5d080aa-a80f-4956-8e97-d64b15c28ab7" alt="Lane and Road Sign Detection" style="border-radius: 15px; width: 500px; height: auto;" />
+  - [Code](https://github.com/shuvam-bhatt/lane-detection)  
 </div>  
 
 ---
@@ -64,10 +66,11 @@ Hi there! I'm **Shuvam Bhatt**, a passionate developer.
 <div align="left" style="display: flex; align-items: center; background: linear-gradient(135deg, #BFBFBF 10%, #6B6B6B 100%); padding: 20px; border-radius: 15px; width: 100%; max-width: 800px;">
   <div style="flex: 1;">
     - A carbon footprint tracker that helps users monitor and reduce their environmental impact.  
-    - Developed using **React.js**, **HTML/CSS**, data stored in **.csv** file.  
-    - [Code](https://github.com/shuvam-bhatt/carbon-footprint-dashboard)  
+    - Developed using React.js, HTML/CSS, data stored in .csv file.  
+    
   </div>
-  <img src="https://github.com/user-attachments/assets/0cda54b3-fa14-4845-ac26-d6ab5282a96f" alt="CarbonTrace" style="border-radius: 15px; width: 200px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/0cda54b3-fa14-4845-ac26-d6ab5282a96f" alt="CarbonTrace" style="border-radius: 15px; width: 500px; height: auto;" />
+  - [Code](https://github.com/shuvam-bhatt/carbon-footprint-dashboard)  
 </div>  
  
 
